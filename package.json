@@ -1,0 +1,27 @@
+{
+  "name": "journalApp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "jest",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shazeen99/journalApp.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shazeen99/journalApp/issues"
+  },
+  "homepage": "https://github.com/shazeen99/journalApp#readme",
+  "dependencies": {
+    "bcrypt": "^5.0.1",
+    "express": "^4.17.1",
+    "jest": "^27.0.6",
+    "sequelize": "^6.6.5"
+  }
+}
